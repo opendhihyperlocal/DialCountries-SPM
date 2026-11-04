@@ -36,7 +36,7 @@ Gives you the country name, ISO 3166 country code, flag emoji and international 
 **Xcode:** File → Add Package Dependencies… and enter:
 
 ```
-https://github.com/abhishekpundir-arch/DialCountries-SPM.git
+https://github.com/opendhihyperlocal/DialCountries-SPM.git
 ```
 
 Choose version `1.0.0` or later, then add the **DialCountries** library to your app target.
@@ -45,7 +45,7 @@ Choose version `1.0.0` or later, then add the **DialCountries** library to your 
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/abhishekpundir-arch/DialCountries-SPM.git", from: "1.0.0")
+    .package(url: "https://github.com/opendhihyperlocal/DialCountries-SPM.git", from: "1.0.0")
 ],
 targets: [
     .target(
@@ -60,7 +60,7 @@ targets: [
 ### CocoaPods
 
 ```ruby
-pod 'DialCountries', :git => 'https://github.com/abhishekpundir-arch/DialCountries-SPM.git', :tag => '1.0.0'
+pod 'DialCountries', :git => 'https://github.com/opendhihyperlocal/DialCountries-SPM.git', :tag => '1.0.1'
 ```
 
 ## Usage
@@ -111,7 +111,7 @@ if let country = Country.getCurrentCountry() {
 
 ## Maintainer
 
-[abhishekpundir-arch](https://github.com/abhishekpundir-arch)
+[opendhihyperlocal](https://github.com/opendhihyperlocal)
 
 ## License
 
