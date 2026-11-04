@@ -1,0 +1,5 @@
+ extern const unsigned char DialCountriesVersionString[];
+ extern const double DialCountriesVersionNumber;
+
+ const unsigned char DialCountriesVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:DialCountries  PROJECT:Pods-1" "\n";
+ const double DialCountriesVersionNumber __attribute__ ((used)) = (double)1.;

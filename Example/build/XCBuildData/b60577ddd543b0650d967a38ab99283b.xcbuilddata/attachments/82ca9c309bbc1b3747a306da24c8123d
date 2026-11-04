@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Debug-iphonesimulator/DialCountries/DialCountries.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Debug-iphonesimulator/DialCountries/DialCountries.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "DialCountries-Swift.h",
+      "external-contents": "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/unextended-interface-header.h",
+    }]
+  }]
+}

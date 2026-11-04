@@ -1,0 +1,4 @@
+
+module DialCountries.Swift {
+  header "DialCountries-Swift.h"
+}

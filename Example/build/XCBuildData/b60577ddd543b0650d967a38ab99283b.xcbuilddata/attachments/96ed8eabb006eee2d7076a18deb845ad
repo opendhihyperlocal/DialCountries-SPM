@@ -1,0 +1,4 @@
+
+module DialCountries.__Swift {
+  exclude header "DialCountries-Swift.h"
+}

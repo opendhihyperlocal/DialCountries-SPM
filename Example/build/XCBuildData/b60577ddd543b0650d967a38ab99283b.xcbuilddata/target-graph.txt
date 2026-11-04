@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'DialCountries' in project 'Pods'
+➜ Explicit dependency on target 'DialCountries-DialCountries' in project 'Pods'
+Target 'DialCountries-DialCountries' in project 'Pods' (no dependencies)

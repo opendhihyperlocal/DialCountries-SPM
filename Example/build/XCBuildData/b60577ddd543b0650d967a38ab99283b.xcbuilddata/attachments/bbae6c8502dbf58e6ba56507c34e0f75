@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountries-primary.dia",
+    "emit-module-dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountries-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountries-primary-emit-module.dia",
+    "pch" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountries-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountries-primary.swiftdeps"
+  },
+  "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/DialCountries/Classes/Core/Bundle.swift" : {
+    "const-values" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Bundle.swiftconstvalues",
+    "dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Bundle.d",
+    "diagnostics" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Bundle.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Bundle.o",
+    "llvm-bc" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Bundle.bc",
+    "object" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Bundle.o",
+    "swift-dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Bundle.swiftdeps",
+    "swiftmodule" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Bundle~partial.swiftmodule"
+  },
+  "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/DialCountries/Classes/Core/Config.swift" : {
+    "const-values" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Config.swiftconstvalues",
+    "dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Config.d",
+    "diagnostics" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Config.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Config.o",
+    "llvm-bc" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Config.bc",
+    "object" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Config.o",
+    "swift-dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Config.swiftdeps",
+    "swiftmodule" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Config~partial.swiftmodule"
+  },
+  "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/DialCountries/Classes/Core/CountriesFetcher.swift" : {
+    "const-values" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesFetcher.swiftconstvalues",
+    "dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesFetcher.d",
+    "diagnostics" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesFetcher.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesFetcher.o",
+    "llvm-bc" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesFetcher.bc",
+    "object" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesFetcher.o",
+    "swift-dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesFetcher.swiftdeps",
+    "swiftmodule" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesFetcher~partial.swiftmodule"
+  },
+  "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/DialCountries/Classes/Core/String+Numbers.swift" : {
+    "const-values" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/String+Numbers.swiftconstvalues",
+    "dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/String+Numbers.d",
+    "diagnostics" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/String+Numbers.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/String+Numbers.o",
+    "llvm-bc" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/String+Numbers.bc",
+    "object" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/String+Numbers.o",
+    "swift-dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/String+Numbers.swiftdeps",
+    "swiftmodule" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/String+Numbers~partial.swiftmodule"
+  },
+  "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/DialCountries/Classes/Module/Country.swift" : {
+    "const-values" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Country.swiftconstvalues",
+    "dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Country.d",
+    "diagnostics" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Country.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Country.o",
+    "llvm-bc" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Country.bc",
+    "object" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Country.o",
+    "swift-dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Country.swiftdeps",
+    "swiftmodule" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/Country~partial.swiftmodule"
+  },
+  "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/DialCountries/Classes/Views/CountriesAdapter.swift" : {
+    "const-values" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesAdapter.swiftconstvalues",
+    "dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesAdapter.d",
+    "diagnostics" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesAdapter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesAdapter.o",
+    "llvm-bc" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesAdapter.bc",
+    "object" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesAdapter.o",
+    "swift-dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesAdapter.swiftdeps",
+    "swiftmodule" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/CountriesAdapter~partial.swiftmodule"
+  },
+  "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/DialCountries/Classes/Views/DialCountriesController.swift" : {
+    "const-values" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountriesController.swiftconstvalues",
+    "dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountriesController.d",
+    "diagnostics" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountriesController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountriesController.o",
+    "llvm-bc" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountriesController.bc",
+    "object" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountriesController.o",
+    "swift-dependencies" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountriesController.swiftdeps",
+    "swiftmodule" : "/Users/shrikantghagare/Documents/GitHub/DialCountries-SPM/Example/build/Pods.build/Debug-iphonesimulator/DialCountries.build/Objects-normal/arm64/DialCountriesController~partial.swiftmodule"
+  }
+}
